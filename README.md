@@ -7,3 +7,4 @@ Data Cleaning: Identify and remove any records with missing or null values & ana
 Making Pivot Table : Making Pivot Table to Answer our question.
 Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.
 Business Analysis: Used Pivot Tables and Power BI Dashboard to answer specific business questions and derive insights from the sales data.
+**Project Objectives**
